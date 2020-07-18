@@ -1,0 +1,5 @@
+<root>
+    <item name='com.google.android.material.snackbar.Snackbar.Callback'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
